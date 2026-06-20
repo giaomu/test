@@ -1,0 +1,34 @@
+# MATLAB/ISSM generated data and local state
+.matlab_prefdir/
+.matlab_prefs/
+archive/
+inputs/
+outputs/
+workfiles/
+execution/
+
+# Large model/result files
+*.mat
+*.outbin
+*.bin
+*.queue
+*.toolkits
+*.outlog
+*.errlog
+
+# Figures and tabular outputs
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.fig
+*.csv
+*.xlsx
+
+# Editor/OS files
+*.asv
+*.swp
+*.tmp
+Thumbs.db
+.DS_Store
